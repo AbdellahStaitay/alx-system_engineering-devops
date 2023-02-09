@@ -1,2 +1,2 @@
 #!/bin/bash
-file = stat --format '%a' olleh , chmod file hello
+chmod --reference=olleh hello
